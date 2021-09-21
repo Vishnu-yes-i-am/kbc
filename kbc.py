@@ -55,6 +55,6 @@ def kbc():
         else:
             print('\nIncorrect !')
             print("option"+str(QUESTIONS[i-1]["answer"]) +"is the correct answer")
-            print("your game is over now .you have won "+str(minwon)+" rupees")
+            print("your game is over now  hehe .you have won "+str(minwon)+" rupees")
             gameover=True
 kbc()
